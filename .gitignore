@@ -1,7 +1,8 @@
 #Bundler Cache
 .bundle
 vendor
-Gemfile.lock
+# Gemfile.lock
+# Gemfile
 
 #Jekyll Cache
 .jekyll-cache
@@ -9,8 +10,7 @@ _site
 .sass-cache/
 .jekyll-metadata
 .jekyll
-Gemfile
-Gemfile.lock
+
 
 #RubyGems
 *.gem
